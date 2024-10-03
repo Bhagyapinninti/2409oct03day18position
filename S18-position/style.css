@@ -1,0 +1,165 @@
+img{
+    width: 300px;
+    height: 350px;
+}
+
+
+#jay{
+    position: relative;
+    top: 58px;
+    left: 170px;
+    z-index:20;
+
+}
+
+#vikram{
+    width: 550px;
+    height: 470px;
+    position: relative;
+
+    right: 190px;
+    z-index: 40;
+    
+}
+#sobhita{
+    position: relative;
+    top: 58px;
+    left: 370px;
+    z-index: 10;
+    
+    
+}
+#trisha{
+    position: relative;
+    left: 930px;
+    bottom: 354px;
+    z-index: 30;
+    
+}
+#karthi{
+    position: relative;
+    left:750px;
+    bottom:354px;
+    right: 10px;
+}
+#aishwarya{
+    position: relative;
+    top: 58px;
+    width: 250px;
+    
+     
+}
+.PS1{
+
+    background-color: chocolate;
+    background-size: cover;
+    border: 32px solid black;
+    margin-right: 30px;
+    height: 600px;
+    position: relative;
+    
+}
+#ps2{
+    width:300px;
+    height:200px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;;
+}
+
+#logo{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 250px;
+    height: 100px;
+    z-index: 20;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+#rayan{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#pushpa{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+    
+}
+#familystar{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#hit{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#evaru{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#master{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#don{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#f2{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#baby{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#japan{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#thundu{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+#love{
+    width: 400px;
+    height:300px;
+    border: 20px solid black;
+    margin: 15px;
+}
+.drama{
+    background-color: blueviolet;
+    position: relative;
+    z-index: 19;
+}
+.comedy{
+    background-color: darkcyan;
+    position: relative;
+    z-index: 19;
+}
+
